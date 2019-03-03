@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Nano TV HD
+http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
+#EXTINF:0,Моя планета 
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/playlist.m3u8
+#EXTINF:-1,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+http://91.202.196.122:8000/play/a036/index.m3u8
+#EXTINF:-1,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://91.202.196.122:8000/play/a014/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://91.202.196.122:8000/play/a015/index.m3u8
+#EXTINF:-1,Viasat History
+http://ott-cdn.ucom.am/s70/index.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+#EXTVLCOPT:network-caching=1000
+http://91.202.196.122:8000/play/a027/index.m3u8
+#EXTINF:-1,История
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1,Наука 2.0
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1,Техно 24
+http://ott-cdn.ucom.am/s68/index.m3u8

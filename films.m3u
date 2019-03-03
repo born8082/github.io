@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Кино 1
+http://v2.myowntv.org/content/35618/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 2
+http://v2.myowntv.org/content/35617/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 3
+http://v2.myowntv.org/content/35608/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 4
+http://v2.myowntv.org/content/35606/index.m3u8?seg-uhd-club
+#EXTINF:-1,Кино 5
+http://v2.myowntv.org/content/35601/index.m3u8?seg-uhd-club
